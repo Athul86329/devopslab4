@@ -5,7 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class DemoApplicationTests {
-
+System.out.println("Hello java ");
 	@Test
 	void contextLoads() {
 	}
